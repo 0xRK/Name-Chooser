@@ -1,0 +1,1 @@
+To use this name picker, you must have a file called **names.txt** at the same level as **chooser.py**. In **names.txt**, write names. Each line should have a first and last name separated by a space. One person per line. Then, just run the randomizer with the command **python chooser.py**
